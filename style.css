@@ -45,3 +45,7 @@ h3 {
 .codebox code {
     font-size:0.9em;
 }
+
+li{
+  margin: 5px 0;
+}
