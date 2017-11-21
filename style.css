@@ -1,5 +1,5 @@
 body{
-	font: 18px Times;
+	font: 14px Arial;
 	background-color:#D8D8D8;
 	width:960px;
 	margin: 0 auto;
@@ -11,8 +11,8 @@ body{
 
 h2 {
 	text-align: center;
-	font: 14px Times;	
-	font-size: 20px;
+	font: 14px Arial;	
+	font-size: 15px;
 	font-weight: bold;
 	background: #C6C6C6;
 	border: 2px solid #ccc;
@@ -23,8 +23,8 @@ h2 {
 }
 
 h3 {
-	font: 14px Times;	
-	font-size: 20px;
+	font: 14px Arial;	
+	font-size: 15px;
 	font-weight: bold;
 	background: #eed6ee;
 	border: 2px dashed #ccc;
